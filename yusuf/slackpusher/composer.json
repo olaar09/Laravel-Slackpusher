@@ -1,0 +1,21 @@
+{
+    "name": "yusuf/slackpusher",
+    "description": "Easily send notifications to slack channels",
+    "type": "extension",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Agboola Yusuf",
+            "email": "agboolar09@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Yusuf\\SlackPusher\\SlackPushServiceProvider"
+            ]
+        }
+    }
+}
