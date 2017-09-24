@@ -3,6 +3,7 @@
     "description": "Easily send notifications to slack channels",
     "type": "extension",
     "license": "GNU",
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Agboola Yusuf",
