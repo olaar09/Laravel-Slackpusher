@@ -1,5 +1,5 @@
 {
-    "name": "yusuf/slackpusher",
+    "name": "yusuf/laravel-slackpusher",
     "description": "Easily send notifications to slack channels",
     "type": "extension",
     "license": "GNU",
